@@ -1,11 +1,5 @@
 // Array
-
-
-
 // 1. :
-
-
-
 // Design an inventory management system for a any small business. Use
 // an array to store the quantity of different products in stock. Implement
 // functionalities to add products (quantity of product), update quantities,
